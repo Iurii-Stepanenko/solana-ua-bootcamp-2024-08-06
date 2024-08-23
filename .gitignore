@@ -1,2 +1,6 @@
 /.env
 /node_modules
+/practice-2/rust/create_token_mint/target
+/practice-2/rust/send_sol/target
+/practice-1/.env
+/practice-2/.env
